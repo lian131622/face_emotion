@@ -1,0 +1,4 @@
+train
+test
+*.npy
+*.zip
